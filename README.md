@@ -1,4 +1,4 @@
-# Discord-Token-Grabber
+# 𝑻𝑶𝑲𝑬𝑵 𝑮𝑹𝑨𝑩𝑩𝑬𝑹 𝑭𝑶𝑹 𝑫𝑰𝑺𝑪𝑶𝑹𝑫
 
 1.żeby uruchomić grabbera zainstaluj Python z tej strony https://www.python.org/downloads/
 
