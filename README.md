@@ -8,4 +8,4 @@
 
 4.ciesz się danymi ofiary >:)
 
-5.niedługo będzie token nuker
+# 5.niedługo będzie token nuker
